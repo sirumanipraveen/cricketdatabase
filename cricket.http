@@ -1,0 +1,7 @@
+POST http://localhost:3000/player/
+Content-Type:application/json
+{
+  ("Rakesh", 39, 35),
+  ("Sai", 47, 30)
+}
+
